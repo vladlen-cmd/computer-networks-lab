@@ -1,1 +1,1 @@
-# Computer Networks Lab Practicals (Session 2024-25)
+# Computer Networks Lab Practicals (Session 2025-26)
